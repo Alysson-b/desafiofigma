@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+:root{
+    --preto:#343639;
+    --laranja:#EC7E4A;
+    --cinza:#373D41;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background-color: var(--preto);
+}
