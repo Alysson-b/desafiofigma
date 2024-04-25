@@ -4,7 +4,7 @@ Esse é um projeto Web desenvolvido durante o curso de Dev Fullstack da Infinity
 
 ## 🔎 
 DESAFIO-FIGMA 
-![](./assents/img/print.png)
+![](./assents/img/(print).png)
 
 
 ## 🎨 Layout
