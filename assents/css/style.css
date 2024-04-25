@@ -5,13 +5,21 @@ body{
 .nav-lateral{
     position: fixed;
     padding: 50px 7px;
-    width: 60px;
+    width: 50px;
     height: 100%;
-    font-size: 40px;
-    border-radius: 10px;
+    font-size: 35px;
+    border-radius: 5px;
     background-color: var(--laranja);
     color: #ffffff;
     cursor: pointer;
+    transition: all 0.5s ease-in-out;
+}
+
+.nav-lateral li i:hover{
+    color: var(--cinza);
+    transform: scale(1.2);
+    
+
 }
 .navigation .icons{
     display: flex;
@@ -119,38 +127,40 @@ body{
 }
 
 .box1{
+    margin-top: 6px;
     padding-left: 15px;
     margin-left: 3.8rem;
     position: absolute;
     border: 5px solid var(--cinza);
-    width: 31%;
-    height: auto;
+    width: 455px;
+    height: 185px;
     padding: 32px;
     background-color: var(--preto);
 }
 
 .box2{
+    margin-top: 6px;
     padding-left: 15px;
     margin-left: 32rem;
     position: absolute;
     border: 5px solid var(--cinza);
-    border-radius: 15px;
-    width: 30%;
+    border-radius: 10px;
+    width: 455px;
     padding: 29px;
-    height: auto;
-    background-color: var(--cinza);
+    height: 185px;
+    background-color: var(--preto);
 }
 
 .box3{
     padding-left: 15px;
-    margin-left: 59.7rem;
+    margin-left: 60.5rem;
     position: absolute;
     border: 5px solid var(--cinza);
     border-radius: 15px;
-    width: 25%;
+    width: 24%;
     padding: 32px;
     height: auto;
-    background-color: var(--preto);
+    background-color: var(--cinza);
 }
 
 .box4{
