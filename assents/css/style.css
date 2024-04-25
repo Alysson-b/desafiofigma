@@ -135,7 +135,7 @@ body{
     width: 460px;
     height: 185px;
     padding: 32px;
-    background-color: var(--cinza);
+    background-color: var(--preto);
 }
 
 .box2{
@@ -159,7 +159,7 @@ body{
     border-radius: 15px;
     width: 24%;
     padding: 32px;
-    height: auto;
+    height: 189px;
     background-color: var(--cinza);
 }
 
