@@ -10,8 +10,8 @@ DESAFIO-FIGMA
 ## 🎨 Layout
 
 Você pode visualizar o layout do projeto através
-[desse link][https://www.figma.com/community/file/1177227970638515103/fitness-dashboard?searchSessionId=lv5ize1l-qtt5cefh38r.]
+[desse link][https://www.figma.com/community/file/1177227970638515103/fitness-dashboard?searchSessionId=lv5ize1l-qtt5cefh38r]
 
 ### 🧑‍💻 Creditos
 
-projeto feito a partir de [](https://www.figma.com/@uifry)
+projeto feito a partir de [https://www.figma.com/@uifry]
